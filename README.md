@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jotta-droid
+- 👋 Hi, I’m @Rosemill
 - 👀 I’m interested in tecnologies in general
 - 🌱 I’m currently learning Frontend development
 - 💞️ I’m looking to collaborate on anyone
